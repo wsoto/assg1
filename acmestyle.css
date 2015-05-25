@@ -1,0 +1,35 @@
+body {
+  font-family: arial; }
+
+li {
+  text-decoration: none;
+  font-family: arial;
+  color: gray;
+  font-size: 25px;
+  display: inline;
+  padding-left: 15px; }
+
+h1 {
+  font-family: arial;
+  font-size: 30px;
+  color: gray; }
+
+p {
+  color: gray; }
+
+.bio {
+  font-family: arial;
+  color: purple;
+  font-size: 9px; 
+  clear: both;
+}
+
+.attention {
+  color: red; 
+  text-align: center;
+  font-size: 20px;
+  font-style: italic;
+
+}
+
+/*# sourceMappingURL=acmestyle.css.map */

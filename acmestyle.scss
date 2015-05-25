@@ -1,0 +1,43 @@
+@import "gen";
+
+$acmecolor: gray;
+
+$acmefont: arial;
+
+$pollout: purple;
+
+$bioline: 9px;
+
+$attention:red;
+
+
+
+li {
+  text-decoration: none;
+  font-family: $acmefont;
+  color: $acmecolor;
+  font-size: 25px;
+  display: inline;
+  padding-left: 15px; 
+}
+
+h1{
+  font-family: $acmefont;
+  font-size: 30px;
+  color: $acmecolor;
+}
+
+p{
+	  color: $acmecolor;
+
+}
+
+.bio{
+  font-family: $acmefont;
+  color:$pollout; 
+  font-size: $bioline;
+}
+
+.attention{
+  color: $attention;
+}
